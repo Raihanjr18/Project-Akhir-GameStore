@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "194655888993",
+    "firebase_url": "https://flutterproject-e7355-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterproject-e7355",
+    "storage_bucket": "flutterproject-e7355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194655888993:android:7fe287255ed16bef33ac20",
+        "android_client_info": {
+          "package_name": "com.example.gamestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzG7sfAlqYdLVFkotnRLuHhNjY0_anaVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
